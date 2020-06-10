@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24d332aa-44a6-4736-97e4-33e1e88ab6a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1d7zT5bbVABhzRRQuzh8BKw9bSH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\Java\EDA\ComparacionAlgoritmos\src\main\java\Algorithms" />
+      <recent name="A:\Java\EDA\ComparacionAlgoritmos\src\main\java\Entrega" />
+      <recent name="A:\Java\EDA\ComparacionAlgoritmos\src\main\java\Class" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24d332aa-44a6-4736-97e4-33e1e88ab6a3" name="Default Changelist" comment="" />
+      <created>1591790923143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591790923143</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="161" key="FileChooserDialogImpl" timestamp="1591791433554">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="465" y="161" key="FileChooserDialogImpl/0.0.1368.872/-1920.0.1920.1040@0.0.1368.872" timestamp="1591791433554" />
+    <state x="395" y="183" key="Maven.ArtifactSearchDialog" timestamp="1591791238944">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="395" y="183" key="Maven.ArtifactSearchDialog/0.0.1368.872/-1920.0.1920.1040@0.0.1368.872" timestamp="1591791238944" />
+    <state x="363" y="196" key="NewModule_or_Project.wizard" timestamp="1591791465785">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="363" y="196" key="NewModule_or_Project.wizard/0.0.1368.872/-1920.0.1920.1040@0.0.1368.872" timestamp="1591791465785" />
+    <state x="345" y="97" key="new project wizard" timestamp="1591791367163">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="345" y="97" key="new project wizard/0.0.1368.872/-1920.0.1920.1040@0.0.1368.872" timestamp="1591791367163" />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41ef8b56-af30-446a-81c4-0c78a197a9eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1d80q9tNzWksIOvKDvaSkq8w4fj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41ef8b56-af30-446a-81c4-0c78a197a9eb" name="Default Changelist" comment="" />
+      <created>1591791600412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591791600412</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="161" key="FileChooserDialogImpl" timestamp="1591791670484">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="465" y="161" key="FileChooserDialogImpl/0.0.1368.872/-1920.0.1920.1040@0.0.1368.872" timestamp="1591791670484" />
+    <state x="363" y="196" key="NewModule_or_Project.wizard" timestamp="1591791691230">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="363" y="196" key="NewModule_or_Project.wizard/0.0.1368.872/-1920.0.1920.1040@0.0.1368.872" timestamp="1591791691230" />
+    <state x="165" y="10" key="SettingsEditor" timestamp="1591791637824">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="165" y="10" key="SettingsEditor/0.0.1368.872/-1920.0.1920.1040@0.0.1368.872" timestamp="1591791637824" />
+  </component>
+</project>
